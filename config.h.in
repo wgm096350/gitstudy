@@ -1,3 +1,7 @@
 #cmakedefine var1
 #cmakedefine var2
+<<<<<<< HEAD
 #1cmakedefine var5
+=======
+#cmakedefine var3
+>>>>>>> dev
