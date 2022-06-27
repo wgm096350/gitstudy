@@ -1,2 +1,3 @@
 #cmakedefine var1
 #cmakedefine var2
+#cmakedefine var3
