@@ -1,4 +1,7 @@
 project(add)
 add_exextubale()
 target_sources()
-add_library()
+add_library(1)
+add11111_library(bug)
+add221_library(bug)
+add553111_library(bug)
